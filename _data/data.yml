@@ -78,22 +78,20 @@ education:
     university: New Mexico State University
     time: 2019 - Present
     details: |
-      - Research on the intersection of ML and Security.
-      - Advisor for the Cybersecurity Club.
-      - Member of the NMSU Student Chapter of the American
-      - Statistical Association
+        - Research on the intersection of ML and Security.
+        - Advisor for the Cybersecurity Club.
+        - Member of the NMSU Student Chapter of the American
+        - Statistical Association
 
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: MS Information Technology Management
+    university: Universidad Anáhuac Mayab
+    time: 2003 - 2005
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Information Technology Infrastructure Library (ITIL) certification.
+
+  - degree: BS Computer Systems Engineering
+    university: Instituto Tecnologico de Merida
+    time: 1995 - 2000
 
 experiences:
   title: Experiences
