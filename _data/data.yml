@@ -64,12 +64,15 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    A dedicated researcher and professional specializing in machine learning 
+    security, with expertise in developing and securing AI-driven systems. 
+    Experienced in adversarial machine learning, model robustness, and the 
+    intersection of AI and cybersecurity. Passionate about advancing secure 
+    and trustworthy AI through cutting-edge research and practical applications. 
+    Skilled in identifying vulnerabilities in machine learning models and 
+    implementing defenses against evolving threats. Combines deep technical 
+    knowledge of AI with a strong foundation in cybersecurity to drive innovation 
+    in secure AI systems.
 education:
   title: Education
   info:
