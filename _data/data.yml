@@ -18,7 +18,7 @@ sidebar:
   timezone: America/Denver # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://chicolinux.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
-  linkedin: www.linkedin.com/in/mguiraotwitte
+  linkedin: www.linkedin.com/in/mguirao
   xing:
   github: chicolinux
   telegram: # add your nickname without '@' sign
@@ -37,14 +37,12 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Spanish
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
